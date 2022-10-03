@@ -368,3 +368,4 @@ Received Import Request.
   path: Assets/Tree_Textures/Materials
   artifactKey: Guid(6e9c582f3eb072c4a8c727fca49ff2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Tree_Textures/Materials using Guid(6e9c582f3eb072c4a8c727fca49ff2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2cd1cb6ea2307a6747f7f1659fb4d0') in 0.001614 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
